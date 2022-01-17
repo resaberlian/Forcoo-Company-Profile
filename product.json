@@ -1,0 +1,43 @@
+{
+    "product": [{
+        "id" : 1,
+        "nama": "Eira Vacuum Bed 1",
+        "harga": "90x 190 = Rp425.000 | 120 x 190 = Rp550.000",
+        "materials": "Menggunakan busa berkualitas tinggi yang tidak mudah kempes dan membuat nyaman.Menggunakan kain knitting yang di quilting sehingga menghasilkan corak yang indah, serta memberikan tekstur yang lembut dan halus.",
+        "foto": "assets/catalogue/produk1_1.JPG",
+        "foto1": "assets/catalogue/produk1_2.JPG",
+        "foto2": "assets/catalogue/produk1_3.JPG",
+        "linkTokped" :"https://www.tokopedia.com/forcooindonesia/forco-vacuum-bed-eira-19-x-90-x-200?whid=0",
+        "linkShopee" : "https://shopee.co.id/Forcoo-vacuum-bed-EIRA-i.147012085.10904323024?sp_atk=4af6eff2-df44-4708-bad4-fcafb5210608"
+    }, {
+        "id" : 2,
+        "nama": "Sofa Bed 2",
+        "harga": "90x 190 = Rp425.000 | 120 x 190 = Rp550.000",
+        "materials": "Menggunakan busa berkualitas tinggi yang tidak mudah kempes dan membuat nyaman.Menggunakan kain knitting yang di quilting sehingga menghasilkan corak yang indah, serta memberikan tekstur yang lembut dan halus.",
+        "foto": "assets/catalogue/produk2_1.JPG",
+        "foto1": "assets/catalogue/produk2_2.JPG",
+        "foto2": "assets/catalogue/produk2_3.JPG",
+        "linkTokped" :"https://www.tokopedia.com/forcooindonesia/forco-vacuum-bed-eira-19-x-90-x-200?whid=0",
+        "linkShopee" : "https://shopee.co.id/Forcoo-vacuum-bed-EIRA-i.147012085.10904323024?sp_atk=4af6eff2-df44-4708-bad4-fcafb5210608"
+    }, {
+        "id" : 3,
+        "nama": "Serene Bed 3",
+        "harga": "90x 190 = Rp425.000 | 120 x 190 = Rp550.000",
+        "materials": "Menggunakan busa berkualitas tinggi yang tidak mudah kempes dan membuat nyaman.Menggunakan kain knitting yang di quilting sehingga menghasilkan corak yang indah, serta memberikan tekstur yang lembut dan halus.",
+        "foto": "assets/catalogue/produk3_1.JPG",
+        "foto1": "assets/catalogue/produk3_2.JPG",
+        "foto2": "assets/catalogue/produk3_3.JPG",
+        "linkTokped" :"https://www.tokopedia.com/forcooindonesia/forco-vacuum-bed-eira-19-x-90-x-200?whid=0",
+        "linkShopee" : "https://shopee.co.id/Forcoo-vacuum-bed-EIRA-i.147012085.10904323024?sp_atk=4af6eff2-df44-4708-bad4-fcafb5210608"
+      
+    }, {
+        "id" : 4,
+        "nama": "Meidira Bed 4",
+        "harga": "90x 190 = Rp425.000 | 120 x 190 = Rp550.000",
+        "materials": "Menggunakan busa berkualitas tinggi yang tidak mudah kempes dan membuat nyaman.Menggunakan kain knitting yang di quilting sehingga menghasilkan corak yang indah, serta memberikan tekstur yang lembut dan halus.",
+        "foto": "assets/img/1.png",
+        "linkTokped" :"https://www.tokopedia.com/forcooindonesia/forco-vacuum-bed-eira-19-x-90-x-200?whid=0",
+        "linkShopee" : "https://shopee.co.id/Forcoo-vacuum-bed-EIRA-i.147012085.10904323024?sp_atk=4af6eff2-df44-4708-bad4-fcafb5210608"
+       
+    }]
+}
